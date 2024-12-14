@@ -52,87 +52,79 @@ const data = {
   ],
   navMain: [
     {
-      title: "Playground",
-      url: "#",
+      title: "Interactive Games",
+      url: "/games",
       icon: SquareTerminal,
       isActive: true,
       items: [
         {
-          title: "History",
-          url: "#",
+          title: "Tic Tac Toe AI",
+          url: "/games/tic-tac-toe",
         },
         {
-          title: "Starred",
-          url: "#",
+          title: "Memory Match",
+          url: "/games/memory-match",
         },
         {
-          title: "Settings",
-          url: "#",
+          title: "Snake Game",
+          url: "/games/snake",
         },
       ],
     },
     {
-      title: "Models",
-      url: "#",
+      title: "UI Components",
+      url: "/components",
+      icon: Frame,
+      items: [
+        {
+          title: "Infinite Scroll",
+          url: "/components/infinite-scroll",
+        },
+        {
+          title: "Virtual List",
+          url: "/components/virtual-list",
+        },
+        {
+          title: "Rich Text Editor",
+          url: "/components/rich-text-editor",
+        },
+      ],
+    },
+    {
+      title: "System Design",
+      url: "/system-design",
       icon: Bot,
       items: [
         {
-          title: "Genesis",
-          url: "#",
+          title: "File Explorer",
+          url: "/system-design/file-explorer",
         },
         {
-          title: "Explorer",
-          url: "#",
+          title: "Kanban Board",
+          url: "/system-design/kanban",
         },
         {
-          title: "Quantum",
-          url: "#",
-        },
-      ],
-    },
-    {
-      title: "Documentation",
-      url: "#",
-      icon: BookOpen,
-      items: [
-        {
-          title: "Introduction",
-          url: "#",
-        },
-        {
-          title: "Get Started",
-          url: "#",
-        },
-        {
-          title: "Tutorials",
-          url: "#",
-        },
-        {
-          title: "Changelog",
-          url: "#",
+          title: "Real-time Chat",
+          url: "/system-design/chat",
         },
       ],
     },
     {
-      title: "Settings",
-      url: "#",
-      icon: Settings2,
+      title: "Data Visualization",
+      url: "/data-viz",
+      icon: PieChart,
       items: [
         {
-          title: "General",
-          url: "#",
+          title: "Interactive Charts",
+          url: "/data-viz/charts",
         },
         {
-          title: "Team",
-          url: "#",
+          title: "Data Grid",
+          url: "/data-viz/grid",
         },
         {
-          title: "Billing",
-          url: "#",
-        },
-        {
-          title: "Limits",
-          url: "#",
+          title: "Dashboard",
+          url: "/data-viz/dashboard",
         },
       ],
     },
