@@ -42,7 +42,7 @@ export default function Home() {
           <CardContent className="pt-6 space-y-4">
             <p className="text-lg leading-7 text-muted-foreground">
               This side project is a playground for me to explore and implement various React concepts,
-              interesting 3rd-party packages, and engage in fun practice mini-challenges. It's a space
+              interesting 3rd-party packages, and engage in fun practice mini-challenges. It&apos;s a space
               where I can experiment, learn, and grow as a developer.
             </p>
           </CardContent>
