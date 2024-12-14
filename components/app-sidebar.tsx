@@ -59,15 +59,15 @@ const data = {
       items: [
         {
           title: "Tic Tac Toe AI",
-          url: "/games/tic-tac-toe",
+          url: "/dashboard/games/tic-tac-toe",
         },
         {
           title: "Memory Match",
-          url: "/games/memory-match",
+          url: "/dashboard/games/memory-match",
         },
         {
           title: "Snake Game",
-          url: "/games/snake",
+          url: "/dashboard/games/snake",
         },
       ],
     },
@@ -78,15 +78,15 @@ const data = {
       items: [
         {
           title: "Infinite Scroll",
-          url: "/components/infinite-scroll",
+          url: "/dashboard/components/infinite-scroll",
         },
         {
           title: "Virtual List",
-          url: "/components/virtual-list",
+          url: "/dashboard/components/virtual-list",
         },
         {
           title: "Rich Text Editor",
-          url: "/components/rich-text-editor",
+          url: "/dashboard/components/rich-text-editor",
         },
       ],
     },
@@ -97,15 +97,15 @@ const data = {
       items: [
         {
           title: "File Explorer",
-          url: "/system-design/file-explorer",
+          url: "/dashboard/system-design/file-explorer",
         },
         {
           title: "Kanban Board",
-          url: "/system-design/kanban",
+          url: "/dashboard/system-design/kanban",
         },
         {
           title: "Real-time Chat",
-          url: "/system-design/chat",
+          url: "/dashboard/system-design/chat",
         },
       ],
     },
@@ -116,15 +116,15 @@ const data = {
       items: [
         {
           title: "Interactive Charts",
-          url: "/data-viz/charts",
+          url: "/dashboard/data-viz/charts",
         },
         {
           title: "Data Grid",
-          url: "/data-viz/grid",
+          url: "/dashboard/data-viz/grid",
         },
         {
           title: "Dashboard",
-          url: "/data-viz/dashboard",
+          url: "/dashboard/data-viz/dashboard",
         },
       ],
     },
